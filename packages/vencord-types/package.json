@@ -1,5 +1,5 @@
-     sh git clone https://github.com/jackierockon69/vencord.git
-cd vencord
+     "sh git clone https://github.com/jackierockon69/vencord.git
+     cd vencord"
     "name": "@vencord/types",
     "private": false,
     "version": "1.11.5",
