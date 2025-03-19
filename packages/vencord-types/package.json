@@ -1,4 +1,4 @@
-{cd ~/projects/vencord
+    {cd ~/projects/vencord
     "name": "@vencord/types",
     "private": false,
     "version": "1.11.5",
